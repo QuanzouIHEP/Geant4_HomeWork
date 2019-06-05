@@ -1,0 +1,7 @@
+/home/zouquan/Quan/build/CMakeFiles/install/strip.dir
+/home/zouquan/Quan/build/CMakeFiles/edit_cache.dir
+/home/zouquan/Quan/build/CMakeFiles/HW.dir
+/home/zouquan/Quan/build/CMakeFiles/rebuild_cache.dir
+/home/zouquan/Quan/build/CMakeFiles/list_install_components.dir
+/home/zouquan/Quan/build/CMakeFiles/install/local.dir
+/home/zouquan/Quan/build/CMakeFiles/install.dir
